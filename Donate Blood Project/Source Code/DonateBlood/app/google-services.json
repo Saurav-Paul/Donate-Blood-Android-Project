@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441359388726",
+    "firebase_url": "https://redcross-3290c.firebaseio.com",
+    "project_id": "redcross-3290c",
+    "storage_bucket": "redcross-3290c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441359388726:android:11a2b37d8fad85fe",
+        "android_client_info": {
+          "package_name": "com.example.saurav.donateblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441359388726-m8pl4jc6jmj92eoempjctj3g0lpc8n8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurav.donateblood",
+            "certificate_hash": "c76dcb9f341d982d75a6bc8ac3ef3b33cff99b8e"
+          }
+        },
+        {
+          "client_id": "441359388726-nb2e5l665khltkepmo2cesipft0hqrdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmZw6YN1I7BuzLCaNzMGz7cjTFH-oUj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441359388726-nb2e5l665khltkepmo2cesipft0hqrdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

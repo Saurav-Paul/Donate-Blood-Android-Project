@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".createPostBlog"
+    android:orientation="vertical"
+    android:background="@color/background_light"
+    android:padding="5dp">
+    <LinearLayout
+        android:id="@+id/idTitlearea"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/input_outline"
+        android:orientation="vertical"
+        android:padding="30dp"
+
+        >
+
+        <TextView
+            android:id="@+id/idlistName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:gravity="center"
+            android:text="DonorList"
+            android:textAllCaps="false"
+            android:textColor="@color/colorAccent"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:paddingBottom="20dp"/>
+
+
+
+<ListView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/clistview"
+    android:paddingBottom="5dp"
+    android:stackFromBottom="true"
+    android:transcriptMode="normal">
+
+</ListView>
+
+
+    </LinearLayout>
+</LinearLayout>

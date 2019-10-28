@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">441359388726-nb2e5l665khltkepmo2cesipft0hqrdl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://redcross-3290c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">441359388726</string>
+    <string name="google_api_key" translatable="false">AIzaSyBQmZw6YN1I7BuzLCaNzMGz7cjTFH-oUj8</string>
+    <string name="google_app_id" translatable="false">1:441359388726:android:11a2b37d8fad85fe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBQmZw6YN1I7BuzLCaNzMGz7cjTFH-oUj8</string>
+    <string name="google_storage_bucket" translatable="false">redcross-3290c.appspot.com</string>
+    <string name="project_id" translatable="false">redcross-3290c</string>
+</resources>
